@@ -22,9 +22,10 @@
 ## 🧠 Навыки
 
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=sql)
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
+![Power BI](https://img.shields.io/badge/Power_BI-yellow?logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![A/B Test](https://img.shields.io/badge/A/B_Test-grey?logo=statics)
 ![Statistics](https://img.shields.io/badge/Statistics-orange?logo=statics)
 ![ML](https://img.shields.io/badge/ML-fuchsia?logo=ml)
 
