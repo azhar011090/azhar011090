@@ -25,10 +25,10 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Scikit-learn](https://img.shields.io/badge/Statics-orange?logo=statics)
-![Streamlit](https://img.shields.io/badge/ML-fuchsia?logo=ml)
+![Statistics](https://img.shields.io/badge/Statistics-orange?logo=statics)
+![ML](https://img.shields.io/badge/ML-fuchsia?logo=ml)
 
 ---
 
-## 📘 Мои проекты в рамках самопрактики:
-- ML проект, который прогнозирует уровень витамина D по анкетным данным клиента, [посмотреть тут](https://github.com/azhar011090/Vitamin-D-ML.git)
+## Мои проекты в рамках самопрактики
+- 📘 ML проект, который прогнозирует уровень витамина D по анкетным данным клиента, [посмотреть тут](https://github.com/azhar011090/Vitamin-D-ML.git)
